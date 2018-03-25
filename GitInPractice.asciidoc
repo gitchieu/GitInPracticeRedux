@@ -1,2 +1,3 @@
 First line of file.
 A new line added to test git push.
+Insert another line to test git fetch from the original repository.
